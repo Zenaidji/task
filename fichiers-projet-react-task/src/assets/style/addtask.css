@@ -1,0 +1,7 @@
+div.addTask input[type="number"] {
+  text-align : right;
+  width : 50px;
+}
+div.addTask input[type="text"] {
+  width : 200px;
+}
