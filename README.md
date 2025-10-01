@@ -40,5 +40,3 @@ Task App est une application de gestion de tâches développée en React. Elle p
 Task App vous aide à organiser vos tâches quotidiennes, suivre leur avancement et gérer leur priorité pour une meilleure productivité.
 
 ---
-
-Ajoutez une capture d'écran nommée `screenshot.png` à la racine du projet pour l'afficher dans ce README.
